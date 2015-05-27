@@ -7,5 +7,12 @@ I got really irritated with the vcbuild.exe issue for Node.JS npm installs. To m
 1. Clone, download, whatever these files into a directory. 
 2. Then add the directory as an entry to the PATH environmental variable (Control Panel > Advanced Settings > Environmental Variables ).
 
-(Ex. If you put the vcbuild.exe file here: C:/Users/Me/Dir/vcbuild.exe then add ‘C:/Users/Me/Dir’ as a new PATH variable).
-
+Ex.: If you put the vcbuild.exe file here: 
+```
+C:/Users/Me/Dir/vcbuild.exe 
+```
+then add 
+```
+C:/Users/Me/Dir;
+```
+ as a new PATH variable.
