@@ -2,7 +2,7 @@
 ###32bit exe (works for 64 bit, but with limitations of 32 bit build)
 
 ### Notes:
-1.To my knowedge the disadvatages of 32 bit would just affect script compile, not affect run performance (maybe someone can speak to that).
+1.To my knowedge the disadvatages of 32 bit would just affect script compile, not affect run performance (maybe someone can speak to that).<br>
 2.If these files need to be taken down for legal issue, just let me know. I assume not as these files are freely available via the Express Edition of VS 2008.
 
 ### Why?:
