@@ -4,7 +4,7 @@
 ### Why?:
 I got really irritated with the vcbuild.exe issue for Node.JS npm installs. To me I really don’t want old (2005/2008) Visual Studio components in my dev environment…so here you go (just the directory you need). 
 
-Clone, download, whatever these files into a directory, then to the PATH environmental variable (Control Panel > Advanced Settings > Environmental Variables ). Add the directory path for these files 
+Clone, download, whatever these files into a directory. Then add the directory as an entry to the PATH environmental variable (Control Panel > Advanced Settings > Environmental Variables ).
 
-(Ex. If you put the vcbuild.exe file here: C:/Users/Me/Dir/vcbuild.exe then add ‘C:/Users/Me/Dir’ as a variable).
+(Ex. If you put the vcbuild.exe file here: C:/Users/Me/Dir/vcbuild.exe then add ‘C:/Users/Me/Dir’ as a new PATH variable).
 
