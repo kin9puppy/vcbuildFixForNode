@@ -2,8 +2,8 @@
 ###32bit exe (works for 64 bit, but with limitations of 32 bit build)
 
 ### Notes:
-**_To my knowedge the disadvatages would just be during script compile not while running (maybe someone can speak to that)_**
-_If these files need to be taken down, just let me know :) All files are freely available via the Express Edition of VS_
+1.To my knowedge the disadvatages of 32 bit would just affect script compile, not affect run performance (maybe someone can speak to that).
+2.If these files need to be taken down for legal issue, just let me know. I assume not as these files are freely available via the Express Edition of VS 2008.
 
 ### Why?:
 I got really irritated with the vcbuild.exe issue for Node.JS npm installs. To me I really don’t want old (2005/2008) Visual Studio components in my dev environment…so here you go (just the directory you need). 
