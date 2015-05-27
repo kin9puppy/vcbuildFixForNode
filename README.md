@@ -8,4 +8,5 @@ I got really irritated with the vcbuild.exe issue for Node.JS npm installs. To m
 2. Then add the directory as an entry to the PATH environmental variable (Control Panel > Advanced Settings > Environmental Variables ).
 
 Ex.: If you put the vcbuild.exe file here: *C:/Users/Me/Dir/vcbuild.exe* ,
+
 then add *C:/Users/Me/Dir;* as a new PATH variable.
